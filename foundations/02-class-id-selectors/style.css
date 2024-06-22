@@ -1,0 +1,27 @@
+.para1{
+    background-color: #e36f92;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+#para2{
+    color: blue;
+    font-size: 36px;
+}
+.para3{
+    background-color: #e36f92;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+
+}
+#para4{
+    background-color: rgb(48, 192, 108);
+    font-weight: bold;
+    font-size: 24px;
+}
+.para5{
+    background-color: #e36f92;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
